@@ -1,6 +1,6 @@
 <!--■■■初期値■■■-->
 <script>
-var attackURL='https://sirakabaararagi.hatenablog.com/entry/2021/11/17/142613';
+var attackURL='https://x.com/mai_ra67/status/1792571741975216266';
 var interval=3000;//1秒=1000
 </script>
 
